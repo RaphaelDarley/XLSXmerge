@@ -1,0 +1,8 @@
+name = "XLSXmerge"
+uuid = "ec7cc35b-1ab5-4eb4-92a2-f053fd1d6ea8"
+authors = ["Raphael Darley <raphael@raphaeldarley.com>"]
+version = "0.1.0"
+
+[deps]
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
